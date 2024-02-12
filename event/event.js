@@ -42,6 +42,10 @@ makeGreenButton.addEventListener('click', function makeGreen() {
 document.getElementById('make-goldenrod').addEventListener('click', function () {
     document.body.style.backgroundColor = 'goldenrod';
 })
+// -----------------------------------------------------
+// ---------------------25.5--------------------------------
+// ---------------------25.5--------------------------------
+// -----------------------------------------------------
 
 //25.5---> Creat a comment box and display
 // step-1: add event listener to the post button
